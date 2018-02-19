@@ -31,4 +31,4 @@ ___________
 * Discounts (data usage) for users who upload valid and new datasets.
 * Welcome companies to open their data and start competations on the platform
 * Discounts (consulting fees) for users who take their own data to consult and willing to open the data.
-* Competition for data collection, in business schools for example, ~~as you always do~~.
+* Competition for data collection, in business schools for example, ~~as SOGE always do~~.
