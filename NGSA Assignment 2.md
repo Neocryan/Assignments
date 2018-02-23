@@ -33,7 +33,7 @@ $$= \frac{c^2}{2}\cdot \frac{n(n-2)}{n-1} \xrightarrow[] {n\ is\ large} \frac{1}
 
 ## III. Centrality Criteria
 ### Question 5
-#### ($a$)
+#### ($a$)$
 #### ($b$)
 ### Question 6
 
@@ -53,5 +53,5 @@ $$= \frac{c^2}{2}\cdot \frac{n(n-2)}{n-1} \xrightarrow[] {n\ is\ large} \frac{1}
 #### ($b$)
 ### Question 10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNzUxOTAzMF19
+eyJoaXN0b3J5IjpbMjAxMjYxMzcxMF19
 -->
