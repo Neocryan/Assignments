@@ -43,7 +43,7 @@ the complexity is O($n^2$)
 Set the sum of the distance of all the nodes in $n_A$ to A is a; The sum of the distance of all the nodes in $n_B$ to B is b. Thus:
 $$C_A = \frac{n}{a+b+n_B}$$
 $$C_B = \frac{n}{a+b+n_A}$$
-
+$$
 
 ## IV. Analyzing a Real Network
 ### Question 7
@@ -61,5 +61,5 @@ $$C_B = \frac{n}{a+b+n_A}$$
 #### ($b$)
 ### Question 10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NTY4NTA4XX0=
+eyJoaXN0b3J5IjpbLTEwNTAxMTMyNF19
 -->
