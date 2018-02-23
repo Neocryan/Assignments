@@ -44,12 +44,6 @@ Set the sum of the distance of all the nodes in $n_A$ to A is a; The sum of the 
 $$C_A = \frac{n}{a+b+n_B}$$
 $$C_B = \frac{n}{a+b+n_A}$$
 
-$\begin{pmatrix}
-  a_{1,1} & a_{1,2} & \cdots & a_{1,n} \\
-  a_{2,1} & a_{2,2} & \cdots & a_{2,n} \\
-  \vdots  & \vdots  & \ddots & \vdots  \\
-  a_{m,1} & a_{m,2} & \cdots & a_{m,n} 
- \end{pmatrix}$
 ## IV. Analyzing a Real Network
 ### Question 7
 #### ($a$)
@@ -66,5 +60,5 @@ $\begin{pmatrix}
 #### ($b$)
 ### Question 10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTA4MjM1MzhdfQ==
+eyJoaXN0b3J5IjpbLTEwNDUwODQwNzRdfQ==
 -->
