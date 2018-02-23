@@ -36,7 +36,8 @@ $$= \frac{c^2}{2}\cdot \frac{n(n-2)}{n-1} \xrightarrow[] {n\ is\ large} \frac{1}
 #### ($a$)$$x_i = 1+ \sum_j \alpha^{d_{i,j}}$$
 #### ($b$)
 	for i in range(n):
-		x_i = 1+sum()
+		for j in range(n):
+			x_i = 1+sum(alpha ^ d(i,j))
 ### Question 6
 
 ## IV. Analyzing a Real Network
@@ -55,5 +56,5 @@ $$= \frac{c^2}{2}\cdot \frac{n(n-2)}{n-1} \xrightarrow[] {n\ is\ large} \frac{1}
 #### ($b$)
 ### Question 10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDkwMjUyNzldfQ==
+eyJoaXN0b3J5IjpbODA4Mzg2NjY3XX0=
 -->
