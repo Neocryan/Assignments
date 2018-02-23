@@ -45,13 +45,13 @@ $$C_A = \frac{n}{a+b+n_B}$$
 $$C_B = \frac{n}{a+b+n_A}$$
 $$\Rightarrow a+b = \frac{n}{C_A}-n_B = \frac{n}{C_B}-n_A$$
 
-$$$$ f(x)=\left\{
+$$ f(x)=\left.
 \begin{aligned}
-x & = & \cos(t) \\
+C_A = \frac{n}{a+b+n_B} \\
 y & = & \sin(t) \\
 z & = & \frac xy
 \end{aligned}
-\right.$$
+\right\}$$
 ## IV. Analyzing a Real Network
 ### Question 7
 #### ($a$)
@@ -68,5 +68,5 @@ z & = & \frac xy
 #### ($b$)
 ### Question 10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMyMTk2MzA5XX0=
+eyJoaXN0b3J5IjpbMTc3NzUxOTY4MF19
 -->
