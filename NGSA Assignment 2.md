@@ -47,7 +47,7 @@ C_A = \frac{n}{a+b+n_B} \\
 C_B = \frac{n}{a+b+n_A}\\
 \end{aligned}
 \right\}\Rightarrow a+b = \frac{n}{C_A}-n_B = \frac{n}{C_B}-n_A$$
-$\Rightarrow \frac{1}{C_A} +\frac{}{}$
+$\Rightarrow \frac{1}{C_A} +\frac{n_A}{n} = $
 ## IV. Analyzing a Real Network
 ### Question 7
 #### ($a$)
@@ -64,5 +64,5 @@ $\Rightarrow \frac{1}{C_A} +\frac{}{}$
 #### ($b$)
 ### Question 10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTM4MDEyMjFdfQ==
+eyJoaXN0b3J5IjpbLTE5NDc4ODY3NTRdfQ==
 -->
