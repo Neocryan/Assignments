@@ -41,17 +41,12 @@ $$= \frac{c^2}{2}\cdot \frac{n(n-2)}{n-1} \xrightarrow[] {n\ is\ large} \frac{1}
 the complexity is O($n^2$)
 ### Question 6
 Set the sum of the distance of all the nodes in $n_A$ to A is a; The sum of the distance of all the nodes in $n_B$ to B is b. Thus:
-$$C_A = \frac{n}{a+b+n_B}$$
-$$C_B = \frac{n}{a+b+n_A}$$
-$$\Rightarrow a+b = \frac{n}{C_A}-n_B = \frac{n}{C_B}-n_A$$
-
-$$ f(x)=\left.
+$$\left.
 \begin{aligned}
 C_A = \frac{n}{a+b+n_B} \\
-y & = & \sin(t) \\
-z & = & \frac xy
+C_B = \frac{n}{a+b+n_A}\\
 \end{aligned}
-\right\}$$
+\right\}\Rightarrow a+b = \frac{n}{C_A}-n_B = \frac{n}{C_B}-n_A$$
 ## IV. Analyzing a Real Network
 ### Question 7
 #### ($a$)
@@ -68,5 +63,5 @@ z & = & \frac xy
 #### ($b$)
 ### Question 10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NzUxOTY4MF19
+eyJoaXN0b3J5IjpbLTIwMjgyMTE1OTVdfQ==
 -->
