@@ -54,7 +54,6 @@ $$\Rightarrow \frac{1}{C_A} +\frac{n_A}{n} = \frac{1}{C_B} +\frac{n_B}{n}$$
 #### ($b$)
 #### ($c$)
 #### ($d$)
-
 ### Question 8
 #### ($a$)
 #### ($b$)
@@ -64,5 +63,5 @@ $$\Rightarrow \frac{1}{C_A} +\frac{n_A}{n} = \frac{1}{C_B} +\frac{n_B}{n}$$
 #### ($b$)
 ### Question 10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNzU1ODcxNV19
+eyJoaXN0b3J5IjpbLTE1MTUzNTA3MzNdfQ==
 -->
