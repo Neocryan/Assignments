@@ -40,7 +40,7 @@ $$= \frac{c^2}{2}\cdot \frac{n(n-2)}{n-1} \xrightarrow[] {n\ is\ large} \frac{1}
 			x_i = 1+sum(alpha ^ d(i,j))
 the complexity is O($n^2$)
 ### Question 6
-
+Set the sum of the distance of all the nodes in $n_A$ to A is a; 
 ## IV. Analyzing a Real Network
 ### Question 7
 #### ($a$)
@@ -57,5 +57,5 @@ the complexity is O($n^2$)
 #### ($b$)
 ### Question 10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzQ4MzY4MDZdfQ==
+eyJoaXN0b3J5IjpbLTIwNzIxMjI1OTJdfQ==
 -->
