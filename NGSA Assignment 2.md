@@ -44,6 +44,14 @@ Set the sum of the distance of all the nodes in $n_A$ to A is a; The sum of the 
 $$C_A = \frac{n}{a+b+n_B}$$
 $$C_B = \frac{n}{a+b+n_A}$$
 $$\Rightarrow a+b = \frac{n}{C_A}-n_B = \frac{n}{C_B}-n_A$$
+
+$$$$ f(x)=\left\{
+\begin{aligned}
+x & = & \cos(t) \\
+y & = & \sin(t) \\
+z & = & \frac xy
+\end{aligned}
+\right.$$
 ## IV. Analyzing a Real Network
 ### Question 7
 #### ($a$)
@@ -60,5 +68,5 @@ $$\Rightarrow a+b = \frac{n}{C_A}-n_B = \frac{n}{C_B}-n_A$$
 #### ($b$)
 ### Question 10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MTIxOTUwN119
+eyJoaXN0b3J5IjpbMzMyMTk2MzA5XX0=
 -->
