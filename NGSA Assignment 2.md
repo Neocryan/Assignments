@@ -38,6 +38,7 @@ $$= \frac{c^2}{2}\cdot \frac{n(n-2)}{n-1} \xrightarrow[] {n\ is\ large} \frac{1}
 	for i in range(n):
 		for j in range(n):
 			x_i = 1+sum(alpha ^ d(i,j))
+the complexity is O($n^2+$)
 ### Question 6
 
 ## IV. Analyzing a Real Network
@@ -56,5 +57,5 @@ $$= \frac{c^2}{2}\cdot \frac{n(n-2)}{n-1} \xrightarrow[] {n\ is\ large} \frac{1}
 #### ($b$)
 ### Question 10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA4Mzg2NjY3XX0=
+eyJoaXN0b3J5IjpbNTQyMDY3Nzk1XX0=
 -->
