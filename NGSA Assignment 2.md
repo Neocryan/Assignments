@@ -2,6 +2,7 @@
 
 ## I. Graph Theory and Graph Properties
 ### Question 1
+Let $A$ be the adjacency matrix of an undirected graph (unweighted, with no self-loops) and$\overrightarrow{1}$ be the column vector whose elements are all $\overrightarrow{1}$. In terms of these quantities and simple matrix operations like matrix transpose and matrix trace, write expressions for:
 #### ($a$) $$k = A \cdot \overrightarrow{1}$$
 #### ($b$) $$m = \frac{1}{2}\sum_{i,j}{A_{i,j}} $$
 #### ($c$) $$N_{i,j} = \sum{(\overrightarrow{A_i} + \overrightarrow{A_i}  == 2)}$$ $$\implies N = A^2$$
@@ -63,5 +64,5 @@ $$\Rightarrow \frac{1}{C_A} +\frac{n_A}{n} = \frac{1}{C_B} +\frac{n_B}{n}$$
 #### ($b$)
 ### Question 10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MDAxMTIyNl19
+eyJoaXN0b3J5IjpbNTYzMDMzMTI2XX0=
 -->
