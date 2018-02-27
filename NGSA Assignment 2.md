@@ -10,8 +10,7 @@ $$k = A \cdot \overrightarrow{1}$$
 The number $m$ of edges in the graph.
 $$m = \frac{1}{2}\sum_{i,j}{A_{i,j}} $$
 #### ($c$) 
-The matrix N whose element Nij is equal to the number of common neighbors of nodes i
-and j.
+The matrix $N$ whose element $N_{i,j}$ is equal to the number of common neighbors of nodes i and j.
 $$N_{i,j} = \sum{(\overrightarrow{A_i} + \overrightarrow{A_i}  == 2)}$$ $$\implies N = A^2$$
 ____
 ### Question 2
@@ -71,5 +70,5 @@ $$\Rightarrow \frac{1}{C_A} +\frac{n_A}{n} = \frac{1}{C_B} +\frac{n_B}{n}$$
 #### ($b$)
 ### Question 10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0Njk1NTQ0M119
+eyJoaXN0b3J5IjpbLTEwMzY4NTY5MF19
 -->
