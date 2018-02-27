@@ -4,7 +4,7 @@
 ### Question 1
 #### ($a$) $$k = A \cdot \overrightarrow{1}$$
 #### ($b$) $$m = \frac{1}{2}\sum_{i,j}{A_{i,j}} $$
-#### ~~(c )~~ $$N_{i,j} = \sum{(\overrightarrow{A_i} + \overrightarrow{A_i}  == 2)}$$ $$\implies N = A^2$$
+#### ($c$) $$N_{i,j} = \sum{(\overrightarrow{A_i} + \overrightarrow{A_i}  == 2)}$$ $$\implies N = A^2$$
 ____
 ### Question 2
 Total edges = $c_1 \times n_1 = c_2 \times n_2$
@@ -63,5 +63,5 @@ $$\Rightarrow \frac{1}{C_A} +\frac{n_A}{n} = \frac{1}{C_B} +\frac{n_B}{n}$$
 #### ($b$)
 ### Question 10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MDgzMzA0OF19
+eyJoaXN0b3J5IjpbLTU5MDAxMTIyNl19
 -->
