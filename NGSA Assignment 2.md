@@ -3,9 +3,16 @@
 ## I. Graph Theory and Graph Properties
 ### Question 1
 Let $A$ be the adjacency matrix of an undirected graph (unweighted, with no self-loops) and$\overrightarrow{1}$ be the column vector whose elements are all $\overrightarrow{1}$. In terms of these quantities and simple matrix operations like matrix transpose and matrix trace, write expressions for:
-#### ($a$) $$k = A \cdot \overrightarrow{1}$$
-#### ($b$) $$m = \frac{1}{2}\sum_{i,j}{A_{i,j}} $$
-#### ($c$) $$N_{i,j} = \sum{(\overrightarrow{A_i} + \overrightarrow{A_i}  == 2)}$$ $$\implies N = A^2$$
+#### ($a$) 
+The vector $k$ whose elements are the degrees $k_i$ of the nodes.
+$$k = A \cdot \overrightarrow{1}$$
+#### ($b$) 
+The number $m$ of edges in the graph.
+$$m = \frac{1}{2}\sum_{i,j}{A_{i,j}} $$
+#### ($c$) 
+The matrix N whose element Nij is equal to the number of common neighbors of nodes i
+and j.
+$$N_{i,j} = \sum{(\overrightarrow{A_i} + \overrightarrow{A_i}  == 2)}$$ $$\implies N = A^2$$
 ____
 ### Question 2
 Total edges = $c_1 \times n_1 = c_2 \times n_2$
@@ -64,5 +71,5 @@ $$\Rightarrow \frac{1}{C_A} +\frac{n_A}{n} = \frac{1}{C_B} +\frac{n_B}{n}$$
 #### ($b$)
 ### Question 10
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYzMDMzMTI2XX0=
+eyJoaXN0b3J5IjpbMTM0Njk1NTQ0M119
 -->
