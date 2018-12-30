@@ -1,7 +1,7 @@
 
 ## Traverse a Tree
-* Pre-order Traversal
-	Pre-order traversal is to visit the root first. Then traverse the left subtree. Finally, traverse the right subtree.
+### Pre-order Traversal
+Pre-order traversal is to visit the root first. Then traverse the left subtree. Finally, traverse the right subtree.
 	遇到了就记录
 	
 ```python
@@ -64,13 +64,47 @@ class Solution:
                 root = root.right
         return res
 ```
-* In-order Traversal
-	In-order traversal is to traverse the left subtree first. Then visit the root. Finally, traverse the right subtree.
+### In-order Traversal
+In-order traversal is to traverse the left subtree first. Then visit the root. Finally, traverse the right subtree.
 	没了左儿子再记
-* Post-order Traversal
-	Post-order traversal is to traverse the left subtree first. Then traverse the right subtree. Finally, visit the root.
+```python
+class Solution:
+    def traversal(self,x):
+        if not x:
+            return None
+        if x.left:
+            self.traversal(x.left)
+        self.res.append(x.val)
+        if x.right:
+            self.traversal(x.right)
+            
+    def inorderTraversal_rec(self, root):
+        self.res = []
+        self.traversal(root)
+        return self.res
+                
+    def inorderTraversal_stack(self, root):
+        res = []
+        stack = []
+        node = root
+        while node or stack:
+            while node:
+                stack.append(node)
+                node = node.left
+            if not stack:
+                return res
+
+            node = stack.pop()
+            res.append(node.val)
+            node = node.right
+        return res          
+        
+```
+### Post-order Traversal
+Post-order traversal is to traverse the left subtree first. Then traverse the right subtree. Finally, visit the root.
 	没了儿子再记
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTAzNTY4NDFdfQ==
+eyJoaXN0b3J5IjpbMzAzMjk1NTQwLC0xNTkwMzU2ODQxXX0=
 -->
